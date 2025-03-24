@@ -8,7 +8,7 @@ http://192.168.4.60/phpmyadmin
 
 Vous aurez alors accès à phpMyAdmin.
 
-## Explication des étapes de configuration rapide mis en place par Elliot et Killian.
+## Explication des étapes de configuration rapide mis en place par Eliott et Killian.
 
 1. **Installez XAMPP (ou WAMP)** sur votre machine.
 2. **Démarrez Apache et MySQL** via le panneau de contrôle de XAMPP (ou WAMP).
